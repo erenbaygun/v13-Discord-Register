@@ -14,7 +14,7 @@ Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu pro
 
 # Önemli
 
-Proje bana aittir izinsiz paylaşılması yasaktır. Bazı hatalar vardır botta onları size bıraktım çözebilirsiniz. Hataları çözemezseniz Discord adresimden ulaşabilirsiniz. Daha iyisini yakında paylaşıcam bu sadece basit bir v13 Slash Commands moderasyon botudur içinde context menüde vardır. Stara basmayı unutmayın :))
+Proje bana aittir izinsiz paylaşılması yasaktır. Botun config dosyasını ayarlarken yazdığım notlara dikkat ettin. Bir sorunla karşılaşırsanız discord üzerinden bana ulaşabilirsiniz. Projeyi yıldızlamayı unutmayın :)
 
 
 # İletişim!
