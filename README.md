@@ -1,4 +1,4 @@
-#Bilgi
+# Bilgi
 
 Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu projesidir. Tamamen sunucunuzla uyumlu çalışması için tasarlanmıştır.
 
