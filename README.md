@@ -14,9 +14,9 @@ Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu pro
 
 # Önemli
 
-Proje bana aittir izinsiz paylaşılması yasaktır.
-Botun config dosyasını ayarlarken yazdığım notlara dikkat ettin.
-Bir sorunla karşılaşırsanız discord üzerinden bana ulaşabilirsiniz. Projeyi yıldızlamayı unutmayın :)
+● Proje bana aittir izinsiz paylaşılması yasaktır.
+● Botun config dosyasını ayarlarken yazdığım notlara dikkat ettin.
+● Bir sorunla karşılaşırsanız discord üzerinden bana ulaşabilirsiniz. Projeyi yıldızlamayı unutmayın :)
 
 
 # İletişim!
