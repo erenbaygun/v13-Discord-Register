@@ -1,3 +1,7 @@
+#Bilgi
+
+Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu projesidir. Tamamen sunucunuzla uyumlu çalışması için tasarlanmıştır.
+
 # Kurulum
 
 1) Dosyaları indirin.
