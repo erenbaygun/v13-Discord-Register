@@ -1,6 +1,6 @@
 # Bilgi
 
-Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu projesidir. Tamamen sunucunuzla uyumlu çalışması için tasarlanmıştır.
+Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu projesidir. Tamamen sunucunuzla uyumlu çalışması için tasarlanmıştır. Öneri ve şikayetleriniz için discord üzerinden bana ulaşabilirsiniz.
 
 # Kurulum
 
@@ -16,9 +16,11 @@ Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu pro
 
 ● Proje bana aittir izinsiz paylaşılması yasaktır.
 
-● Botun config dosyasını ayarlarken yazdığım notlara dikkat ettin.
+● Botun config dosyasını ayarlarken dosyadaki notlara dikkat ettin.
 
-● Bir sorunla karşılaşırsanız discord üzerinden bana ulaşabilirsiniz. Projeyi yıldızlamayı unutmayın :)
+● Bir sorunla karşılaşırsanız discord üzerinden bana ulaşabilirsiniz.
+
+● Projeyi yıldızlamayı unutmayın :)
 
 
 # İletişim!
