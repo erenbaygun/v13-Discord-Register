@@ -1,0 +1,37 @@
+{
+  "name": "v13-discord-register",
+  "version": "1.0.0",
+  "description": "Discord.js v13 Public Register Bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErenBaygun/v13-Discord-Register.git"
+  },
+  "keywords": [
+    "ErenBaygun",
+    "v13",
+    "discord-bot",
+    "discord-js",
+    "register",
+    "kayıt",
+    "nodejs"
+  ],
+  "author": "ErenBaygun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErenBaygun/v13-Discord-Register/issues"
+  },
+  "homepage": "https://github.com/ErenBaygun/v13-Discord-Register#readme",
+  "dependencies": {
+    "@discordjs/voice": "^0.9.0",
+    "discord.js": "^13.6.0",
+    "js": "^0.1.0",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.3"
+  }
+}

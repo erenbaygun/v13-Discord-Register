@@ -1,0 +1,31 @@
+{
+    "token": "BOTUN TOKENI",
+    "prefix": "BOTUN ÖN EKİ ( örnek: ! )",
+    "voiceChannelID": "BOTUN ÇALIŞIRKEN KATILACAĞI SES KANALI ID",
+
+
+    "presence": {
+        "name": "BOTUN AKTİVİTE DURUMUNDAKİ YAZI",
+        "type": "BOTUN AKTİVİTESİ ( örnek: WATCHING / PLAYING / LISTENING )"
+    },
+
+    "rol": {
+        "booster": "BOOSTER ROL ID"
+    },
+
+    "kayıt": {
+        "kayıtsızID": "KAYITSIZ ROL ID",
+        "erkekID": "ERKEK ROL ID",
+        "kızID": "KIZ ROL ID",
+        "kayıtYetkiliID": "KAYIT YETKİLİSİ ROL ID",
+
+        "kayıtchatID": "KAYITLARIN YAPILDIĞI METIN KANALI ID",
+
+        "tag": "KAYIT EDİLEN KULLANICILARIN ADININ BAŞINDA OLUCAK TAG ( ÖNEMLİ: bu alanı boş bırakmayın )",
+        "kayıtsızNick": "KATILAN YENİ ÜYELERE VEİRLECEK TAKMA AD ( ÖNEMLİ: kayıtsızlara takma ad vermek istemiyorsanız boş bırakabilirsiniz ) ( örnek: isim | yaş )"
+    },
+
+    "emoji": {
+        "amblem": "SUNUCU AMBLEMİ EMOJİSİ ( örnek: <:star:924626488093999144> )"
+    }
+}
