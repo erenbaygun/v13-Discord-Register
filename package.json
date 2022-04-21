@@ -1,7 +1,7 @@
 {
   "name": "v13-discord-register",
   "version": "1.0.0",
-  "description": "Discord.js v13 Public Register Bot",
+  "description": "Discord.js v13 Register / Kayıt Botu",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
