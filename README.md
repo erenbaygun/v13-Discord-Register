@@ -25,6 +25,6 @@ Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu pro
 
 # İletişim!
 
-● Discord: Sanctus#7296 (513752527989374976)
+● Discord: [Sanctus#7296](https://discord.gg/MEdUDMSTMx)
 
 ● Instagram: https://instagram.com/eren.byg
