@@ -8,6 +8,7 @@ module.exports = {
     aliases: ["erkek", "e"],
     usage: "!erkek @kullanıcı isim yaş",
     run: async (client, message, args) => {
+        if (!args[0]) return message.reply(':x: | Geçerli bir kullanıcı belirtmelisin.').then(msg => { setTimeout(() => { msg.delete() }, 10000); });
         const member = message.guild.members.cache.get(message.mentions.users.first().id) || message.guild.members.cache.get(args[0]);
 
         let name = args[1]
