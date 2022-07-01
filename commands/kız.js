@@ -22,7 +22,7 @@ module.exports = {
         if (!member.roles.cache.has(config.kayıt.kayıtsızID)) return message.reply(':x: | Kullanıcının kayıtsız rolü yok.').then(msg => { setTimeout(() => { msg.delete() }, 10000); });
 
         await member.setNickname(`${config.kayıt.tag} ${name} | ${age}`);
-        await member.roles.add(config.kayıt.erkekID);
+        await member.roles.add(config.kayıt.kızID);
         await member.roles.remove(config.kayıt.kayıtsızID)
 
         let embed = new MessageEmbed()
