@@ -6,7 +6,7 @@ require("../structures/function")(client);
 
 module.exports = {
     name: 'guildMemberAdd',
-    once: true,
+    once: false,
     async execute(member, client) {
         const kayıtsızRol = member.guild.roles.cache.find(role => role.id == config.kayıt.kayıtsızID)
         const kayıtsızNick = config.kayıt.kayıtsızNick == "" ? null : config.kayıt.kayıtsızNick

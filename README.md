@@ -14,7 +14,7 @@ Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu pro
 
 # Önemli
 
-● Proje bana aittir izinsiz paylaşılması yasaktır.
+● Projeden kod kullanacaksanız cr verin.
 
 ● Botun config dosyasını ayarlarken dosyadaki notlara dikkat ettin.
 
@@ -27,4 +27,5 @@ Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu pro
 
 ● Discord: [Sanctus#7296](https://discord.gg/MEdUDMSTMx)
 
-● Instagram: https://instagram.com/eren.byg
+● Websitem: https://sanct.me
+
