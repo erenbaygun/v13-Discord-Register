@@ -8,7 +8,7 @@ module.exports = {
     aliases: ["kayıtsız", "unreg", "ks"],
     usage: "!kayıtsız @kullanıcı",
     run: async (client, message, args) => {
-        const member = message.guild.members.cache.get(message.mentions.users.first().id) || message.guild.members.cache.get(args[0]);
+        const member = message.mentions.users.size > 0 ? message.guild.members.cache.get(message.mentions.users.first().id) : message.guild.members.cache.get(args[0]);
 
         if (!message.member.roles.cache.has(config.kayıt.kayıtYetkiliID) && !message.member.permissions.has(8)) return message.reply(':x: | Bu komutu kullanabilmek için gerekli izinlere sahip değilsin.').then(msg => { setTimeout(() => { msg.delete() }, 10000); })
         if (!member) return message.reply(':x: | Geçerli bir kullanıcı belirlemelisin.').then(msg => { setTimeout(() => { msg.delete() }, 10000); });

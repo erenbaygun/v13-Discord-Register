@@ -9,7 +9,7 @@ module.exports = {
     usage: "!kız @kullanıcı isim yaş",
     run: async (client, message, args) => {
         if (!args[0]) return message.reply(':x: | Geçerli bir kullanıcı belirtmelisin.').then(msg => { setTimeout(() => { msg.delete() }, 10000); });
-        const member = message.guild.members.cache.get(message.mentions.users.first().id) || message.guild.members.cache.get(args[0]);
+        const member = message.mentions.users.size > 0 ? message.guild.members.cache.get(message.mentions.users.first().id) : message.guild.members.cache.get(args[0]);
 
         let name = args[1]
         let age = args[2]
