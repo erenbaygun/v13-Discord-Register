@@ -28,4 +28,3 @@ Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu pro
 ● Discord: [Sanctus#7296](https://discord.gg/MEdUDMSTMx)
 
 ● Websitem: https://sanct.me
-
